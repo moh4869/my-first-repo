@@ -1,1 +1,2 @@
 a merge conflict local test.
+merge conflict test passed
